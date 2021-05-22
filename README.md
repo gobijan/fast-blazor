@@ -46,6 +46,8 @@ While you can have multiple design system providers, the most common configurati
 
 Once these steps are completed, you can then begin using the components throughout your Blazor application. Take a look in the `examples` folder of this repository to see how to use the various components.
 
+Last step is to add `@using Microsoft.Fast.Components.FluentUI`to your _Imports.razor file in order to enable the components.
+
 ## Joining the Community
 
 Looking to get answers to questions or engage with us in realtime? Our community is most active [on Discord](https://discord.gg/FcSNfg4). Submit requests and issues on [GitHub](https://github.com/dotnet/blazor-fluentui/issues/new/choose), or join us by contributing on [some good first issues via GitHub](https://github.com/dotnet/blazor-fluentui/labels/community:good-first-issue).
